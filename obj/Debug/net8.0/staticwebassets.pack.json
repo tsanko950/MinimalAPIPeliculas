@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Softuni-Udemy\\udemy\\.net core\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\actores\\293a878a-c7b5-44b8-8e89-d9451874d161.jpg",
+      "PackagePath": "staticwebassets\\actores\\293a878a-c7b5-44b8-8e89-d9451874d161.jpg"
+    },
+    {
+      "Id": "D:\\Softuni-Udemy\\udemy\\.net core\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\actores\\41af1659-96c4-4e47-973c-a7a127b209d2.jpg",
+      "PackagePath": "staticwebassets\\actores\\41af1659-96c4-4e47-973c-a7a127b209d2.jpg"
+    },
+    {
+      "Id": "D:\\Softuni-Udemy\\udemy\\.net core\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\actores\\5633aa02-adf4-413d-8586-033f178bbab5.jpg",
+      "PackagePath": "staticwebassets\\actores\\5633aa02-adf4-413d-8586-033f178bbab5.jpg"
+    },
+    {
+      "Id": "D:\\Softuni-Udemy\\udemy\\.net core\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\actores\\c2435e70-de73-4d8e-92ed-0c5dce5a926d.jpg",
+      "PackagePath": "staticwebassets\\actores\\c2435e70-de73-4d8e-92ed-0c5dce5a926d.jpg"
+    },
+    {
+      "Id": "D:\\Softuni-Udemy\\udemy\\.net core\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\peliculas\\4fd3e832-37fd-49b1-83e3-2ff0f6da5d4d.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\4fd3e832-37fd-49b1-83e3-2ff0f6da5d4d.jpg"
+    },
+    {
+      "Id": "D:\\Softuni-Udemy\\udemy\\.net core\\MinimalAPIPeliculas\\MinimalAPIPeliculas\\wwwroot\\peliculas\\c8b014d2-37f0-404d-b791-177b25af132f.jpg",
+      "PackagePath": "staticwebassets\\peliculas\\c8b014d2-37f0-404d-b791-177b25af132f.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MinimalAPIPeliculas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MinimalAPIPeliculas.props",
+      "PackagePath": "build\\MinimalAPIPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MinimalAPIPeliculas.props",
+      "PackagePath": "buildMultiTargeting\\MinimalAPIPeliculas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MinimalAPIPeliculas.props",
+      "PackagePath": "buildTransitive\\MinimalAPIPeliculas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
